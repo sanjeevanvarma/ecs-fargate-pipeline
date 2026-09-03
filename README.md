@@ -51,7 +51,7 @@ AWS CodeBuild
        Route 53
            │
            ▼
- https://ecs.deployops.in
+ https://deployops.in
 ```
 
 ---
