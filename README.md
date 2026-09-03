@@ -58,13 +58,19 @@ AWS CodeBuild
 
 ## 🏗️ Architecture
 
-![AWS ECS Architecture](images/aws-ecs-architecture.png)
+![AWS ECS Architecture](ecs-images/ecs-arch.png)
 
 ---
 
 ## 🌐 Website
 
-![AWS ECS Website](images/website.png)
+![AWS ECS Website](ecs-images/ecs-website.png)
+
+---
+
+## Pipeline
+
+![Code Pipeline](ecs-images/code-pipeline.png)
 
 ---
 
